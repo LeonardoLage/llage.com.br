@@ -1,0 +1,5 @@
+baseURL = "http://llage.com.br/"
+languageCode = "en-us"
+title = "Leonardo Lage"
+theme = "soho"
+
