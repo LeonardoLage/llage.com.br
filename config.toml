@@ -1,4 +1,4 @@
-baseURL = "http://llage.com.br/"
+baseURL = "llage.com.br"
 languageCode = "en-us"
 title = "Leonardo Lage"
 theme = "soho"
