@@ -1,5 +1,5 @@
 baseURL = "http://llage.com.br/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "Leonardo Lage"
 theme = "soho"
 enableInlineShortcodes = true
@@ -9,7 +9,7 @@ enableEmoji = true
 
 [params]
 author = "llage"
-#description = "My Blog"
+#description = "Blog"
 
 ## Set one of:
 gravatar = "leonardo.rlage@gmail.com"
@@ -51,10 +51,11 @@ customJs = ["js/blog.js"]
   url = "/posts/"
 
   [[menu.main]]
-  name = "About"
-  identifier = "about"
+  name = "Sobre"
+  identifier = "sobre"
   weight = 300
-  url = "/about/"
+  url = "/sobre/"
+
 
 [taxonomies]
   category = "categories"

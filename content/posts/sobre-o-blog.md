@@ -1,6 +1,6 @@
 ---
-title: "Sobre O Blog"
-date: 2021-02-03T19:14:26-03:00
+title: "Wordpress em alta disponiblidade na AWS - Parte 1"
+date: 2021-06-14T19:14:26-03:00
 draft: false
 ---
 
