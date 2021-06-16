@@ -10,9 +10,9 @@ Olá, tudo bem?
 
 Me chamo Leonardo Lage, sou analista de infraestrutura, entusiasta de computação em nuvem, eterno estudante e curioso por natureza.
 
-Decidi criar esse blog com o intuito de compartilhar conhecimento, projetos e coisas interessantes do mundo da tecnologia (interessantes pelo menos pra mim! hehe)
+Decidi criar esse blog com o intuito de compartilhar conhecimento, projetos e coisas interessantes do mundo da tecnologia.
 
-Espero que o conteúdo desses posts possa te ajudar de alguma forma.
+Seja bem-vindo(a)! Espero que o conteúdo desses posts possa te ajudar de alguma forma.
 
 Fique a vontade para entrar em contato. Responderei o mais breve possível!
  
